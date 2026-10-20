@@ -90,4 +90,4 @@ Note: the notebooks write the models' answers to harmful prompts to `all_answers
 
 ## Blog post
 
-[Spread it out vs keep it in one place: testing two ways to protect a model's refusal behaviour](https://forum.effectivealtruism.org/posts/MTHRT8qvjaGXDgFgm/spread-it-out-vs-keep-it-in-one-place-testing-two-ways-to-1) (EA Forum)
+The full writeup is in [WRITEUP.md](WRITEUP.md). It was originally posted at [Spread it out vs keep it in one place: testing two ways to protect a model's refusal behaviour](https://forum.effectivealtruism.org/posts/MTHRT8qvjaGXDgFgm/spread-it-out-vs-keep-it-in-one-place-testing-two-ways-to-1) (EA Forum)
