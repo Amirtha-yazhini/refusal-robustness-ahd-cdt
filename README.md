@@ -80,10 +80,6 @@ Note: the notebooks write the models' answers to harmful prompts to `all_answers
 - **Simplified C-ΔΘ.** Attribution patching instead of EAP-IG, α ∈ {0.25, 0.5, 0.75, 1.0},
   one pooled harm category.
 
-## AI use
-
-[Your note, in your own words.]
-
 ## References
 
 - Arditi et al. (2024), [Refusal in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2406.11717)
