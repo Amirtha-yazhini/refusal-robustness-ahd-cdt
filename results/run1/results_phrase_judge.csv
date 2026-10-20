@@ -1,0 +1,5 @@
+version,refusal (clean),over-refusal (benign),answer NLL,direction layer,direction ablated,top 8 heads masked,top 16 heads masked,top 32 heads masked,"fine-tune attack, 2 steps","fine-tune attack, 5 steps","fine-tune attack, 10 steps"
+original,0.86,0.0,2.013479137420654,10,0.24,0.87,0.82,0.29,0.86,0.0,0.0
+plain fine-tune,1.0,0.06,2.46858736038208,11,0.9,1.0,0.99,0.99,1.0,0.02,0.0
+AHD,0.98,0.01,3.216267395019531,11,0.16,1.0,1.0,1.0,0.98,0.01,0.0
+C-ΔΘ,0.99,0.04,2.381753158569336,10,0.33,0.97,0.96,0.69,0.99,0.99,0.21

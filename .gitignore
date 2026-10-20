@@ -1,0 +1,8 @@
+# Model completions to harmful prompts: keep these out of the public repo
+*answers*.json
+examples.json
+# Saved model weights
+*.pt
+*.safetensors
+__pycache__/
+.ipynb_checkpoints/

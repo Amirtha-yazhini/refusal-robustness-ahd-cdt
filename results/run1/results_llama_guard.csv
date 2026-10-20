@@ -1,0 +1,5 @@
+version,clean,direction ablated,top 8 heads masked,top 16 heads masked,top 32 heads masked,"fine-tune attack, 2 steps","fine-tune attack, 5 steps","fine-tune attack, 10 steps"
+original,0.1,0.55,0.12,0.14,0.39,0.09,0.96,0.96
+plain fine-tune,0.01,0.05,0.01,0.02,0.01,0.0,0.85,0.97
+AHD,0.01,0.62,0.0,0.0,0.0,0.01,0.88,0.94
+C-ΔΘ,0.01,0.39,0.02,0.02,0.11,0.0,0.0,0.75

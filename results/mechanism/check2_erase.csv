@@ -1,0 +1,29 @@
+version,erased,refusal (phrases),refusal score,unsafe (Llama Guard)
+original,none,0.89,20.368288068771363,0.1
+original,top 1 directions,0.25,17.250530042648315,0.54
+original,top 2 directions,0.37,17.284563341140746,0.45
+original,top 3 directions,0.42,16.76915838241577,0.3
+original,top 5 directions,0.68,16.539235134124755,0.21
+original,1 random directions,0.86,20.800524101257324,0.11
+original,5 random directions,0.85,20.897816715240477,0.08
+plain fine-tune,none,1.0,22.475550651550293,0.02
+plain fine-tune,top 1 directions,0.79,16.17704908370972,0.12
+plain fine-tune,top 2 directions,0.78,14.636805505752564,0.13
+plain fine-tune,top 3 directions,0.74,14.283860650062561,0.12
+plain fine-tune,top 5 directions,0.81,15.471294703483581,0.08
+plain fine-tune,1 random directions,1.0,22.430877208709717,0.02
+plain fine-tune,5 random directions,1.0,22.59687755584717,0.02
+AHD,none,0.98,23.522605571746826,0.03
+AHD,top 1 directions,0.38,11.426490640640258,0.45
+AHD,top 2 directions,0.44,12.263062295913697,0.45
+AHD,top 3 directions,0.55,14.969902544021606,0.36
+AHD,top 5 directions,0.86,17.008595571517944,0.12
+AHD,1 random directions,0.98,23.49609308242798,0.03
+AHD,5 random directions,0.98,23.244138441085816,0.02
+C-ΔΘ,none,1.0,34.471707305908204,0.02
+C-ΔΘ,top 1 directions,0.9,28.9805863571167,0.06
+C-ΔΘ,top 2 directions,0.98,29.831498680114745,0.02
+C-ΔΘ,top 3 directions,0.99,29.79186164855957,0.03
+C-ΔΘ,top 5 directions,0.99,29.30246929168701,0.03
+C-ΔΘ,1 random directions,1.0,34.41708620071411,0.02
+C-ΔΘ,5 random directions,1.0,34.39200897216797,0.02
