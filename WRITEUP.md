@@ -1,6 +1,6 @@
 # Spread it out vs keep it in one place: testing two ways to protect a model's refusal behaviour
 
-*Originally posted on the [EA Forum](https://forum.effectivealtruism.org/posts/MTHRT8qvjaGXDgFgm/spread-it-out-vs-keep-it-in-one-place-testing-two-ways-to-1). Code and results are in this repository; see the [README](README.md).*
+Code and results are in this repository; see the [README](README.md).*
 
 A good amount of work has been done to study the refusal behavior of LLM's.Several results suggest that the refusal behaviour produced by safety fine-tuning during pre-training can be removed easily.  For example,Arditi et al. (2024) showed that refusal behaviour is mediated largely by a single direction in the residual stream, and ablation of that direction can remove it and this can be done without damaging other capabilites of the model too.
 
