@@ -269,7 +269,7 @@ Yin et al. (2026), which I came across while writing this, report that jailbreak
 **References**
 
 - Arditi et al. (2024), [Refusal in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2406.11717)
-- Huang et al. (2025), Attention Head Dropout. *[Add link.]*
+- Huang et al. (2025), [Safety Alignment Should Be Made More Than Just A Few Attention Heads]. (https://arxiv.org/html/2508.19697v1)
 - Kasliwal, Seth & Sankarapu (2026), [C-ΔΘ: Circuit-Restricted Weight Arithmetic for Selective Refusal](https://arxiv.org/abs/2602.04521)
 - Yin, Han & Li (2026), [Robust Harmful Features Under Jailbreak Attacks](https://arxiv.org/abs/2606.28153)
 - Zou et al. (2023), [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043) (AdvBench)
